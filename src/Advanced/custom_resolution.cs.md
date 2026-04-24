@@ -115,7 +115,7 @@ crh
 
 - Alternativně můžete také přidat režim `2560x1600MR@120` na hlavní displej hostitelského počítače. To může způsobit zatemnění monitoru vašeho hostitelského počítače a zobrazení dialogu `unsupported mode` a během streamování hry budete muset změnit rozlišení. Tuto metodu můžete vyzkoušet, pokud nechcete řešit více monitorů.
 
-!!! warning "**ne** deaktivujte hlavní displej, protože to může způsobit, že nebudete mít žádný dostupný displej (což může také přerušit streamování). <br>Pokud narazíte na černou obrazovku, která přetrvává i po restartu, můžete zkusit přejít do `tty` stisknutím <kbd>ctrl</kbd> + <kbd>alt</kbd> remove nebo remove, remove, a <kb `~/.config/kwinoutputconfig.json` z příkazového řádku Všimněte si, že tím odstraníte konfigurace vašeho monitoru <br>Příkladem bude příkaz `mv ~/.config/kwinoutputconfig.json ~/.config/kwinoutputconfig.json.bak`".
+!!! warning "**ne** deaktivujte hlavní displej, protože to může způsobit, že nebudete mít žádný dostupný displej (což může také přerušit streamování). <br>Pokud narazíte na černou obrazovku, která přetrvává i po restartu, můžete zkusit přejít do tty stisknutím <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>F4</kbd> a odstranit ~/.config/kwinoutputconfig.json z příkazového řádku. Všimněte si, že tím odstraníte konfigurace vašeho monitoru. <br>Příkladem bude příkaz mv ~/.config/kwinoutputconfig.json ~/.config/kwinoutputconfig.json.bak".
 
 ### Pokročilé použití
 
