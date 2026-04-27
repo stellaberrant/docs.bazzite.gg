@@ -7,7 +7,7 @@ title: Changes to Sunshine on Bazzite
 ## The Change
 
 Sunshine had historically been shipped with the base Bazzite image - but that will no longer be the case. 
-!!! info "This change will take effect in an update in the near future, along with the switch to OGC kernel with inputplumber. Look out for announcements!"
+!!! info "This change will take effect in an update in the near future, along with the update to Fedora 44. Look out for announcements!"
 
 ## Why is This Happening?
 
